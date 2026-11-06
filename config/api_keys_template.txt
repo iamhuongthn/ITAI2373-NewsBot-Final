@@ -1,0 +1,2 @@
+# No API keys required for the core local NLP pipeline.
+# Never commit secrets to GitHub.
