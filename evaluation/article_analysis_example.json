@@ -1,0 +1,85 @@
+{
+  "sentiment": {
+    "label": "negative",
+    "scores": {
+      "neg": 0.13,
+      "neu": 0.806,
+      "pos": 0.064,
+      "compound": -0.9609
+    }
+  },
+  "entities": [
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 168,
+      "end": 173
+    },
+    {
+      "text": "cynthia cooper",
+      "label": "PERSON",
+      "start": 183,
+      "end": 197
+    },
+    {
+      "text": "us",
+      "label": "GPE",
+      "start": 299,
+      "end": 301
+    },
+    {
+      "text": "2002",
+      "label": "DATE",
+      "start": 320,
+      "end": 324
+    },
+    {
+      "text": "5.7bn",
+      "label": "MONEY",
+      "start": 409,
+      "end": 414
+    },
+    {
+      "text": "new york",
+      "label": "GPE",
+      "start": 772,
+      "end": 780
+    },
+    {
+      "text": "wednesday",
+      "label": "DATE",
+      "start": 784,
+      "end": 793
+    },
+    {
+      "text": "arthur andersen",
+      "label": "PERSON",
+      "start": 817,
+      "end": 832
+    },
+    {
+      "text": "early 2001 and",
+      "label": "DATE",
+      "start": 871,
+      "end": 885
+    },
+    {
+      "text": "2002",
+      "label": "DATE",
+      "start": 886,
+      "end": 890
+    },
+    {
+      "text": "scott sullivan",
+      "label": "PERSON",
+      "start": 1328,
+      "end": 1342
+    },
+    {
+      "text": "sullivan",
+      "label": "PERSON",
+      "start": 1467,
+      "end": 1475
+    }
+  ]
+}

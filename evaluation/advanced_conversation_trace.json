@@ -1,0 +1,110 @@
+[
+  {
+    "query": "Find technology news about software",
+    "intent": "search",
+    "selected_article_id": 1347,
+    "response": {
+      "intent": "search",
+      "results": [
+        {
+          "index": 1347,
+          "score": 0.47257140278816223,
+          "text": "software watching while you work software that can not only monitor every keystroke and action performed at a pc but also be used as legally binding evidence of wrong-doing has been unveiled. worries about cyber-crime and sabotage have prompted many employers to consider monitoring employees. the developers behind the system claim it is a break-through in the way data is monitored and stored. but privacy advocates are concerned by the invasive nature of such software. the system is a joint ventu"
+        },
+        {
+          "index": 298,
+          "score": 0.4685581922531128,
+          "text": "microsoft takes on desktop search microsoft has entered the desktop search fray releasing a test version of its tool to find documents e-mails and other files on a pc hard drive. the beta program only works on pcs running windows xp or windows 2000. the desktop search market is becoming increasingly crowded with firms touting programs that help people find files. search giant google launched its desktop search tool in october while yahoo is planning to release similar software in january. our am"
+        },
+        {
+          "index": 731,
+          "score": 0.460164874792099,
+          "text": "search wars hit desktop pcs another front in the on-going battle between microsoft and google is about to be opened. by the end of 2004 microsoft aims to launch search software to find any kind of file on a pc hard drive. the move is in answer to google s release of its own search tool that catalogues data on desktop pcs. the desktop search market is becoming increasingly crowded as google aol yahoo and many smaller firms tout programs that help people find files. microsoft made the announcement"
+        },
+        {
+          "index": 1374,
+          "score": 0.4438244104385376,
+          "text": "yahoo moves into desktop search internet giant yahoo has launched software to allow people to search e-mail and other files on their pcs. the firm is following in the footsteps of microsoft google and ask jeeves which have offered similar services. search has become a lucrative and hotly-contested area of expansion for net firms looking to extend loyalty beyond the web. with hard drives providing bigger storage users could need more help to locate important files such as photos. the desktop sear"
+        },
+        {
+          "index": 274,
+          "score": 0.4404779076576233,
+          "text": "microsoft debuts security tools microsoft is releasing tools that clean up pcs harbouring viruses and spyware. the virus-fighting program will be updated monthly and is a precursor to microsoft releasing dedicated anti-virus software. also being released is a software utility that will help users find and remove any spyware on their home computer. although initially free it is thought that soon microsoft will be charging users for the anti-spyware tool. the anti-spyware tool is available now and"
+        }
+      ],
+      "selected_article_id": 1347
+    }
+  },
+  {
+    "query": "What is the sentiment of the first article?",
+    "intent": "sentiment",
+    "selected_article_id": 1347,
+    "response": {
+      "intent": "sentiment",
+      "sentiment": {
+        "label": "negative",
+        "scores": {
+          "neg": 0.079,
+          "neu": 0.84,
+          "pos": 0.081,
+          "compound": -0.6161
+        }
+      }
+    }
+  },
+  {
+    "query": "Summarize that article",
+    "intent": "summarize",
+    "selected_article_id": 1347,
+    "response": {
+      "intent": "summarize",
+      "summary": " Security firm 3ami and storage specialists bridgehead software have joined forces to create a system which can monitor computer activity and retrieve disputed files within minutes . Privacy advocates are concerned by the invasive nature of such software ."
+    }
+  },
+  {
+    "query": "What organizations are mentioned in it?",
+    "intent": "entities",
+    "selected_article_id": 1347,
+    "response": {
+      "intent": "entities",
+      "entities": [
+        {
+          "text": "minutes",
+          "label": "TIME",
+          "start": 698,
+          "end": 705
+        },
+        {
+          "text": "more than 80%",
+          "label": "PERCENT",
+          "start": 985,
+          "end": 998
+        },
+        {
+          "text": "3ami",
+          "label": "ORG",
+          "start": 1471,
+          "end": 1475
+        },
+        {
+          "text": "third",
+          "label": "ORDINAL",
+          "start": 1650,
+          "end": 1655
+        },
+        {
+          "text": "tim ellsmore",
+          "label": "PERSON",
+          "start": 2306,
+          "end": 2318
+        },
+        {
+          "text": "3ami",
+          "label": "CARDINAL",
+          "start": 2340,
+          "end": 2344
+        }
+      ]
+    }
+  }
+]
