@@ -1,0 +1,10 @@
+query,precision_at_5,recall_at_5,hits,relevant_total
+mobile phones and internet technology,0.8,0.5714285714285714,4,7
+football teams and championships,0.8,0.5714285714285714,4,7
+economic growth and interest rates,1.0,0.5,5,10
+government elections and political parties,1.0,0.5,5,10
+movies and film awards,1.0,0.5,5,10
+cybersecurity and online privacy,1.0,0.5,5,10
+stock market and company profits,1.0,0.5,5,10
+rugby tournament results,0.2,0.25,1,4
+music artists and album releases,1.0,0.5,5,10
